@@ -3,7 +3,51 @@
   "WorkspaceRootPath": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\scriptibleobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptibleobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\scriptibleobjects\\recipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptibleobjects\\recipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\plateiconsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plateiconsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\plateiconsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plateiconsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\scriptibleobjects\\kitchenobjectso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptibleobjects\\kitchenobjectso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\burgercompletevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\burgercompletevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,32 +55,8 @@
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\scriptibleobjects\\fryingrecipesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptibleobjects\\fryingrecipesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cuttingcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\scriptibleobjects\\burningrecipesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptibleobjects\\burningrecipesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +66,178 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProgressBarUI.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ProgressBarUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ProgressBarUI.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ProgressBarUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ProgressBarUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RecipeListSO.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\RecipeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptibleObjects\\RecipeListSO.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\RecipeListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptibleObjects\\RecipeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:45:40.798Z",
+              "WhenOpened": "2025-05-28T18:13:44.381Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IHasProgress.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\IHasProgress.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\IHasProgress.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\IHasProgress.cs",
-              "RelativeToolTip": "Assets\\Scripts\\IHasProgress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:45:15.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StoveCounterVisual.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:11:25.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BurningRecipesSO.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\BurningRecipesSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptibleObjects\\BurningRecipesSO.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\BurningRecipesSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptibleObjects\\BurningRecipesSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:44:49.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseCounter.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:15:36.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CuttingCounter.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Title": "RecipeSO.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\RecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptibleObjects\\RecipeSO.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\RecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptibleObjects\\RecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:00:06.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:05:46.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FryingRecipesSO.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\FryingRecipesSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptibleObjects\\FryingRecipesSO.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\FryingRecipesSO.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScriptibleObjects\\FryingRecipesSO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DeliveryManager.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryManager.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:23:50.488Z",
+              "WhenOpened": "2025-05-28T18:03:38.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeliveryCounter.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:09:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlateIconSingleUI.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlateIconSingleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlateIconSingleUI.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlateIconSingleUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlateIconSingleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:52:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlateIconsUI.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlateIconsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlateIconsUI.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlateIconsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlateIconsUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:42:01.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BurgerCompleteVisual.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\BurgerCompleteVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BurgerCompleteVisual.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\BurgerCompleteVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BurgerCompleteVisual.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:49:31.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlateKitchenObject.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlateKitchenObject.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlateKitchenObject.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:28:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoveCounterVisual.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounterVisual.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:43:01.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:42:03.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObject.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KitchenObject.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:37:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KitchenObjectSO.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\KitchenObjectSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptibleObjects\\KitchenObjectSO.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScriptibleObjects\\KitchenObjectSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptibleObjects\\KitchenObjectSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:26:13.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StoveCounter.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\StoveCounter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounter.cs",
               "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\StoveCounter.cs",
               "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounter.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAzwGwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAzwHoAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:19:21.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T12:43:12.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CuttingCounterVisual.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounterVisual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:10:53.642Z"
+              "WhenOpened": "2025-05-28T11:27:52.112Z"
             }
           ]
         }
