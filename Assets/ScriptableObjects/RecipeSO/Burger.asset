@@ -15,4 +15,4 @@ MonoBehaviour:
   kitchenObjectSOList:
   - {fileID: 11400000, guid: 57e291cb19a30cb4bb307ac274214547, type: 2}
   - {fileID: 11400000, guid: 8e8fd76f31648874fb938515a03872c2, type: 2}
-  recipeName: Burger
+  recipeName: Ron Swanson Burger

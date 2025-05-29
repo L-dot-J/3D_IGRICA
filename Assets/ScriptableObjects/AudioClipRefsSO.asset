@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db2b338a3121d54478b304a2b1703e1e, type: 3}
+  m_Name: AudioClipRefsSO
+  m_EditorClassIdentifier: 
+  chop:
+  - {fileID: 8300000, guid: 7058021d97639e84bbff7bf4159af870, type: 3}
+  woodenCrate:
+  - {fileID: 8300000, guid: 7d8b5948632fa724f839f58ba5df7565, type: 3}
+  drop:
+  - {fileID: 8300000, guid: 02269507ffec7094fb6772d4cfceb271, type: 3}
+  deliveryFail:
+  - {fileID: 8300000, guid: ee13353d6781df5469073f0ff72fb96e, type: 3}
+  deliveryGood:
+  - {fileID: 8300000, guid: bd39565793c1a0e4388e927bd295f43e, type: 3}
+  plateClick:
+  - {fileID: 8300000, guid: f57892e050d38b847bad97dccc2c3483, type: 3}
+  frySizzle:
+  - {fileID: 8300000, guid: 05c060ce0bdd7e64a9e724393895698b, type: 3}
+  trashCan:
+  - {fileID: 8300000, guid: 54f05b74036743f419192542978cf7c9, type: 3}

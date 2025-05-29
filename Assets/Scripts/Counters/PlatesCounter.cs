@@ -7,6 +7,7 @@ public class PlatesCounter : BaseCounter
 {
     public event EventHandler OnPlateSpawned;
     public event EventHandler OnPlateRemoved;
+    public static event EventHandler OnAnyPlatePickedUp;
 
     [SerializeField] private KitchenObjectSO plateKitcheOBjectSO;
 
@@ -43,6 +44,7 @@ public class PlatesCounter : BaseCounter
                 KitchenObject.SpawnKitchesObject(plateKitcheOBjectSO, player);
 
                 OnPlateRemoved?.Invoke(this, EventArgs.Empty);
+                OnAnyPlatePickedUp?.Invoke(this, EventArgs.Empty);
             }
         }
     }

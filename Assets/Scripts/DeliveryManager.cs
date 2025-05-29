@@ -1,9 +1,16 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class DeliveryManager : MonoBehaviour
 {
+
+    public event EventHandler OnRecipeSpawned;
+    public event EventHandler OnRecipeComplited;
+    public event EventHandler OnRecipeSucces;
+    public event EventHandler OnRecipeFailed;
+        
     public static DeliveryManager Instance { get; private set; }
     [SerializeField] private RecipeListSO recipeListSO;
 
@@ -28,9 +35,11 @@ public class DeliveryManager : MonoBehaviour
 
             if (waitingRecipeList.Count < waitingRecipeMax)
             {
-                RecipeSO waitingRecipeSO = recipeListSO.recipeSOList[Random.Range(0, recipeListSO.recipeSOList.Count)];
-                UnityEngine.Debug.Log(waitingRecipeSO.recipeName);
+                RecipeSO waitingRecipeSO = recipeListSO.recipeSOList[UnityEngine.Random.Range(0, recipeListSO.recipeSOList.Count)];
+                //UnityEngine.Debug.Log(waitingRecipeSO.recipeName);
                 waitingRecipeList.Add(waitingRecipeSO);
+
+                OnRecipeSpawned?.Invoke(this, EventArgs.Empty);
             }
             
         }
@@ -65,13 +74,24 @@ public class DeliveryManager : MonoBehaviour
 
                 if (plateContentMatchesRecipe)
                 {
-                    UnityEngine.Debug.Log("deliverd the right recipe");
+                    //UnityEngine.Debug.Log("deliverd the right recipe");
                     waitingRecipeList.RemoveAt(i);
+
+                    OnRecipeComplited?.Invoke(this, EventArgs.Empty);
+                    OnRecipeSucces?.Invoke(this, EventArgs.Empty);
                     return;
                 }
             
             }
         }
-        UnityEngine.Debug.Log("player did not deliver the right recipe");
+        //UnityEngine.Debug.Log("player did not deliver the right recipe");
+        OnRecipeFailed?.Invoke(this, EventArgs.Empty);
     }
+
+    public List<RecipeSO> GetWaitingRecipeSOList()
+    { 
+        return waitingRecipeList;
+    
+    }
+
 }
