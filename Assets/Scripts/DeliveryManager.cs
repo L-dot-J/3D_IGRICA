@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
 public class DeliveryManager : MonoBehaviour
@@ -19,6 +20,7 @@ public class DeliveryManager : MonoBehaviour
     private float spawnRecipeTimer;
     private float spawnRecipeTimerMax = 4f;
     private int waitingRecipeMax = 4;
+    private int succesfulRecipeAmount;
 
 
     private void Awake()
@@ -33,7 +35,7 @@ public class DeliveryManager : MonoBehaviour
         { 
             spawnRecipeTimer = spawnRecipeTimerMax;
 
-            if (waitingRecipeList.Count < waitingRecipeMax)
+            if ( Game_menager.Instance.IsGamePlaying() && waitingRecipeList.Count < waitingRecipeMax)
             {
                 RecipeSO waitingRecipeSO = recipeListSO.recipeSOList[UnityEngine.Random.Range(0, recipeListSO.recipeSOList.Count)];
                 //UnityEngine.Debug.Log(waitingRecipeSO.recipeName);
@@ -74,6 +76,7 @@ public class DeliveryManager : MonoBehaviour
 
                 if (plateContentMatchesRecipe)
                 {
+                    succesfulRecipeAmount++;
                     //UnityEngine.Debug.Log("deliverd the right recipe");
                     waitingRecipeList.RemoveAt(i);
 
@@ -92,6 +95,11 @@ public class DeliveryManager : MonoBehaviour
     { 
         return waitingRecipeList;
     
+    }
+
+    public int GetSuccesfulRecipesAmount()
+    { 
+        return succesfulRecipeAmount;
     }
 
 }

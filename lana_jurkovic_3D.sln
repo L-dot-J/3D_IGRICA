@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Demo.Editor"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinoBloom.Runtime", "KinoBloom.Runtime.csproj", "{04C19CCD-6B8A-AFD2-A925-B51CFFABD683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{491F9F04-B45B-14EE-F613-71D7DFF63D7C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,10 +43,6 @@ Global
 		{04C19CCD-6B8A-AFD2-A925-B51CFFABD683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04C19CCD-6B8A-AFD2-A925-B51CFFABD683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04C19CCD-6B8A-AFD2-A925-B51CFFABD683}.Release|Any CPU.Build.0 = Release|Any CPU
-		{491F9F04-B45B-14EE-F613-71D7DFF63D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{491F9F04-B45B-14EE-F613-71D7DFF63D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{491F9F04-B45B-14EE-F613-71D7DFF63D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{491F9F04-B45B-14EE-F613-71D7DFF63D7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
