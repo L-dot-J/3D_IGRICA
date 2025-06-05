@@ -64,6 +64,7 @@
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Editor\DoubleClickSelection.cs" />
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Editor\InspectorView.cs" />
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Editor\SplitView.cs" />
+    <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Editor\NodePort.cs" />
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Editor\BehaviourTreeView.cs" />
   </ItemGroup>
   <ItemGroup>

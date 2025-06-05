@@ -154,8 +154,12 @@ public class PlayerController : MonoBehaviour, IKitchenObjectParent
         {
             transform.position += moveDirection * currentSpeed * Time.deltaTime;
         }
-        float rotateSpeed = 8f;
-        transform.forward = Vector3.Slerp(transform.forward, moveDirection, Time.deltaTime * rotateSpeed);
+        if (moveDirection != Vector3.zero)
+        {
+            float rotateSpeed = 8f;
+            transform.forward = Vector3.Slerp(transform.forward, moveDirection, Time.deltaTime * rotateSpeed);
+        }
+       
 
     }
     public bool IsWalking()

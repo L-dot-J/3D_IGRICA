@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\cutscenemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\game_menager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_menager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\cutscenemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cutscenemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\screenfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\screenfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwKMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:40:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Game_menager.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Game_menager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_menager.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Game_menager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_menager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:21:53.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodePort.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "RelativeDocumentMoniker": "Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "RelativeToolTip": "Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:05:41.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ScreenFade.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScreenFade.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenFade.cs",
@@ -38,12 +88,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ScreenFade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:48:28.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T14:48:28.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CutSceneMenager.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\CutSceneMenager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CutSceneMenager.cs",
@@ -51,12 +100,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CutSceneMenager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:33:23.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T14:33:23.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Loader.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Loader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Loader.cs",
@@ -68,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoaderCallback.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\LoaderCallback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoaderCallback.cs",

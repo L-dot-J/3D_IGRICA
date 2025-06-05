@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\cutscenemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|d:\\6 sem\\zavr\u0161ni projekt iz 3d igrica\\lana_jurkovic_3d\\assets\\scripts\\game_menager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_menager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\cutscenemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cutscenemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\screenfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,76 +23,8 @@
       "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\game_menager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_menager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\rnadonnpcmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rnadonnpcmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\ui\\tutorialui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tutorialui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\ui\\gamestartcountdownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamestartcountdownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\directionallight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\directionallight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\counters\\trashbincounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\trashbincounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\soundmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\assets\\scripts\\ui\\gameclockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C3525-6A67-E928-6807-E9CAF3F4C023}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameclockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -99,91 +39,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CutSceneMenager.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\CutSceneMenager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CutSceneMenager.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\CutSceneMenager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CutSceneMenager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T14:33:23.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TutorialUI.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\TutorialUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TutorialUI.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\TutorialUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\TutorialUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:52:56.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Game_menager.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Game_menager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game_menager.cs",
               "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Game_menager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game_menager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wC4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:14:20.364Z"
+              "WhenOpened": "2025-06-05T11:21:53.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameInput.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\GameInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\GameInput.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAzwAkAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "NodePort.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "RelativeDocumentMoniker": "Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "RelativeToolTip": "Assets\\TheKiwiCoder\\BehaviourTree\\Scripts\\Runtime\\NodePort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:13:05.285Z"
+              "WhenOpened": "2025-06-04T19:05:41.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GamestartCountdownUI.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\GamestartCountdownUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamestartCountdownUI.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\GamestartCountdownUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\GamestartCountdownUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ScreenFade.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScreenFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenFade.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ScreenFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenFade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:34:52.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SoundMenager.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\SoundMenager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundMenager.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\SoundMenager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SoundMenager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:28:36.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CuttingCounter.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:26:54.819Z"
+              "WhenOpened": "2025-06-03T14:48:28.873Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CutSceneMenager.cs",
+              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\CutSceneMenager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CutSceneMenager.cs",
+              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\CutSceneMenager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CutSceneMenager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:33:23.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Loader.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Loader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Loader.cs",
@@ -195,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoaderCallback.cs",
               "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\LoaderCallback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoaderCallback.cs",
@@ -204,151 +108,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T14:40:10.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeliveryManager.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\DeliveryManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryManager.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\DeliveryManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DeliveryManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwCUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:02:05.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlatesCounter.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:03:49.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RnadonNPCMove.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\RnadonNPCMove.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RnadonNPCMove.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\RnadonNPCMove.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RnadonNPCMove.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswCQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:33:37.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.8\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.8\\Shaders\\Lit.shader",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.8\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.8\\Shaders\\Lit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-06-03T13:31:23.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ResetStaticdataManager.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ResetStaticdataManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetStaticdataManager.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\ResetStaticdataManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ResetStaticdataManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:25:25.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseCounter.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\BaseCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:28:58.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DirectionalLight.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\DirectionalLight.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DirectionalLight.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\DirectionalLight.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DirectionalLight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:14:46.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwB8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T14:31:56.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TrashBinCounter.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\TrashBinCounter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\TrashBinCounter.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\Counters\\TrashBinCounter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counters\\TrashBinCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:29:28.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GamePauseUI.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\GamePauseUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePauseUI.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\GamePauseUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\GamePauseUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:59:47.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MainMenuUI.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\MainMenuUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuUI.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\MainMenuUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T14:16:49.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GameClockUI.cs",
-              "DocumentMoniker": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\GameClockUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameClockUI.cs",
-              "ToolTip": "D:\\6 sem\\Zavr\u0161ni projekt iz 3D igrica\\lana_jurkovic_3D\\Assets\\Scripts\\UI\\GameClockUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\GameClockUI.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T09:27:37.15Z"
             }
           ]
         }

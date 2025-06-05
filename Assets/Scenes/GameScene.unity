@@ -3432,7 +3432,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: bcaa38b4eba34e84ea415038757ec4a2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.45
+      value: 0.52
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bcaa38b4eba34e84ea415038757ec4a2,
         type: 3}
@@ -4961,7 +4961,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: bcaa38b4eba34e84ea415038757ec4a2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.67
+      value: 0.47
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bcaa38b4eba34e84ea415038757ec4a2,
         type: 3}
@@ -5967,6 +5967,8 @@ MonoBehaviour:
 
     Slice
     food : F key
+
+    Exit to menu : Esc
 
 
     Press E to continue...'

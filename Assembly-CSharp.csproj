@@ -84,7 +84,6 @@
     <Compile Include="Assets\Scripts\ScriptibleObjects\KitchenObjectSO.cs" />
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Actions\Breakpoint.cs" />
     <Compile Include="Assets\Scripts\Counters\StoveCounterVisual.cs" />
-    <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Runtime\NodePort.cs" />
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Runtime\Context.cs" />
     <Compile Include="Assets\TheKiwiCoder\BehaviourTree\Scripts\Runtime\RootNode.cs" />
     <Compile Include="Assets\Scripts\DeliveryManager.cs" />
